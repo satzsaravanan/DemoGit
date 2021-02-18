@@ -3,7 +3,7 @@ package org.thor;
 public class WindSheild {
 
 	private void doctorstrange() {
-	System.out.println("capt america");
+	System.out.println("iron man");
 
 	}
 	public static void main(String[] args) {
