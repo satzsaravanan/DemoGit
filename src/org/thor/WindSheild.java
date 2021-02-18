@@ -6,8 +6,13 @@ public class WindSheild {
 	System.out.println("iron man");
 
 	}
+	private void blinders() {
+	System.out.println("tommy");
+
+	}
 	public static void main(String[] args) {
 		 WindSheild w=new WindSheild();
+		 w.blinders();
 		 w.doctorstrange();
 		 
 	}
